@@ -35,3 +35,10 @@ Each dialogue is analyzed to extract:
 
 ```bash
 pip install -r requirements.txt
+
+## Environment Variables
+
+Create `.env` file:
+
+```bash
+cp .env.example .env
