@@ -26,4 +26,12 @@ Each dialogue is analyzed to extract:
 
 ---
 
-## Project Structure
+
+---
+
+## Setup
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
